@@ -2,10 +2,10 @@
 
 ## Candidate Details
 
-**Name:**Enduri Krishna Pranathi
-**Year:** 2nd Year
-**Task:** Task 2 — Neural Network
-**Dataset:** MNIST Handwritten Digit Database
+-**Name:**Enduri Krishna Pranathi
+-**Year:** 2nd Year
+-**Task:** Task 2 — Neural Network
+-**Dataset:** MNIST Handwritten Digit Database
 
 ---
 
